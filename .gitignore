@@ -1,0 +1,14 @@
+.dependencies/
+artifacts/
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+tools/inspection/game-metadata.txt
+tools/inspection/camera-il.txt
+docs/archive/
+Thumbs.db
+desktop.ini
