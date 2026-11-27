@@ -145,3 +145,5 @@ Inscryption VR is released under the [MIT License](LICENSE).
 It uses [BepInEx](https://github.com/BepInEx/BepInEx) (LGPL-2.1) and Valve's [OpenVR SDK](https://github.com/ValveSoftware/openvr) (BSD-3-Clause, license shipped as `OpenVR-LICENSE.txt`).
 
 This is an unofficial fan project. It isn't affiliated with or endorsed by Daniel Mullins Games or Devolver Digital. You need to own Inscryption to use it, and no game files are included.
+
+Hello, it's me the human again. Just here to show that I do read and review everything that the AI makes. ;) I care about the things I make even the vibe coded ones lol. I hope you enjoy the mod
