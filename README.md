@@ -10,6 +10,18 @@ This mod was developed on my Steam Frame. Many features are new and haven't been
 
 AI WRITTEN SECTION:
 
+## Install
+
+1. Download the latest zip from the [Releases](../../releases) page:
+   - `InscryptionVR-<version>-with-BepInEx.zip` if you've never modded Inscryption.
+   - `InscryptionVR-<version>-plugin-only.zip` if you already have BepInEx 5 x86 installed.
+2. Open the game folder. In Steam: right-click Inscryption → **Manage** → **Browse local files**.
+3. Extract the zip **into that folder**, so `winhttp.dll` and the `BepInEx` folder sit next to `Inscryption.exe`.
+4. Start SteamVR and put the headset on, **then** launch the game. If SteamVR is running, the game starts in VR; if not, it runs normally on the monitor, with a reminder in the corner of the title screen. VR starts at the title screen and can't be started later in the same session.
+5. Optional, in Steam: right-click Inscryption → **Properties** → **Launch Options**. `-vr` always starts in VR (and launches SteamVR if needed); `-novr` always starts on the monitor. Set `Rendering.LaunchMode = FlagOnly` in the config to start VR only with `-vr`.
+
+To uninstall, delete `BepInEx/plugins/InscryptionVR`. To remove BepInEx as well, also delete `winhttp.dll`, `doorstop_config.ini` and the `BepInEx` folder.
+
 ## Features
 
 - **Stereo rendering** of the cabin, the sanctum, the finale walk, the main menu and the Kaycee's Mod menu. The game keeps running on the monitor, which can mirror the headset view.
@@ -30,18 +42,6 @@ AI WRITTEN SECTION:
 - Windows PC with the **Steam** or **Epic** version of Inscryption.
 - **SteamVR** and a PC VR headset (Quest via Steam Link, Air Link or Virtual Desktop; Index; Vive; Steam Frame, and others). Controllers with grip, trigger and a thumbstick.
 - **BepInEx 5.4 (x86)**. The "with-BepInEx" download includes it.
-
-## Install
-
-1. Download the latest zip from the [Releases](../../releases) page:
-   - `InscryptionVR-<version>-with-BepInEx.zip` if you've never modded Inscryption.
-   - `InscryptionVR-<version>-plugin-only.zip` if you already have BepInEx 5 x86 installed.
-2. Open the game folder. In Steam: right-click Inscryption → **Manage** → **Browse local files**.
-3. Extract the zip **into that folder**, so `winhttp.dll` and the `BepInEx` folder sit next to `Inscryption.exe`.
-4. Start SteamVR and put the headset on, **then** launch the game. If SteamVR is running, the game starts in VR; if not, it runs normally on the monitor, with a reminder in the corner of the title screen. VR starts at the title screen and can't be started later in the same session.
-5. Optional, in Steam: right-click Inscryption → **Properties** → **Launch Options**. `-vr` always starts in VR (and launches SteamVR if needed); `-novr` always starts on the monitor. Set `Rendering.LaunchMode = FlagOnly` in the config to start VR only with `-vr`.
-
-To uninstall, delete `BepInEx/plugins/InscryptionVR`. To remove BepInEx as well, also delete `winhttp.dll`, `doorstop_config.ini` and the `BepInEx` folder.
 
 ## Controls
 
