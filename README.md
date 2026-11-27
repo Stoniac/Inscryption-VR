@@ -6,7 +6,7 @@ Hello! This is my fan-made VR mod for **Inscryption** (Act 1 and Kaycee's Mod) f
 
 Everything is physical, and I try to enhance VR interactions where possible. I really wanted this mod to feel like more than just pointing at things with a ray, and actually feel like it was made for VR. This should feel very interactive and detailed (within reason of course). Includes performance settings, and should be quite optimized even without them. Everything goes through the game's own rules and save files, and the mod never patches game code.
 
-This mod was developed on my Steam Frame. Many features are new and haven't been tested on other headsets yet. If something breaks, please [open an issue](../../issues) with your `BepInEx/LogOutput.log`.
+This mod was developed on my Steam Frame. Many features are new and haven't been tested on other headsets yet, though since I've kept things mostly off buttons and in-world, it should work on pretty much any headset. If something breaks or is even just moderately annoying, please [open an issue](../../issues) with your `BepInEx/LogOutput.log`.
 
 AI WRITTEN SECTION:
 
