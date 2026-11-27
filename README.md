@@ -1,11 +1,13 @@
 # Inscryption VR
 
-A fan-made VR mod for **Inscryption** (Act 1 and Kaycee's Mod), played through **SteamVR** with your own two hands.
+HUMAN WRITTEN SECTION:
+Hello! This is my fan-made VR mod for **Inscryption** (Act 1 and Kaycee's Mod) for **SteamVR**. The programming for this project was done with Claude, which I HEAVILY supervised and regularly assured the quality of.
 
-You sit at Leshy's table in the headset. Pick up cards, slap the bell, pay blood with the dagger, screw the totem together, flip through the rule book, walk around the cabin, and type your name on the death card. Everything goes through the game's own rules and save files: the mod never patches game code.
+Everything is physical, and I try to enhance VR interactions where possible. I really wanted this mod to feel like more than just pointing at things with a ray, and actually feel like it was made for VR. This should feel very interactive and detailed (within reason of course). Includes performance settings, and should be quite optimized even without them. Everything goes through the game's own rules and save files, and the mod never patches game code.
 
-> **Early release.** The mod is developed on a Quest 3 over Steam Link and on a Steam Frame. Many features are new and haven't been tested on other headsets yet. If something breaks, please [open an issue](../../issues) with your `BepInEx/LogOutput.log`.
+> **Early release.** The mod was developed on my Steam Frame. Many features are new and haven't been tested on other headsets yet. If something breaks, please [open an issue](../../issues) with your `BepInEx/LogOutput.log`.
 
+AI WRITTEN SECTION:
 ## Features
 
 - **Stereo rendering** of the cabin, the sanctum, the finale walk, the main menu and the Kaycee's Mod menu. The game keeps running on the monitor, which can mirror the headset view.
